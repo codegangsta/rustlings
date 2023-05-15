@@ -1,0 +1,25 @@
+#![allow(dead_code)]
+mod r#generics;
+mod r#options;
+mod r#strings;
+mod r#intro;
+mod r#smart_pointers;
+mod r#vecs;
+mod r#primitive_types;
+mod r#conversions;
+mod r#traits;
+mod r#move_semantics;
+mod r#hashmaps;
+mod r#if;
+mod r#enums;
+mod r#tests;
+mod r#lifetimes;
+mod r#error_handling;
+mod r#macros;
+mod r#threads;
+mod r#structs;
+mod r#variables;
+mod r#clippy;
+mod r#functions;
+mod r#modules;
+mod r#iterators;
