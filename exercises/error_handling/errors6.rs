@@ -7,9 +7,6 @@
 // what to do next when our function returns an error.
 
 // Execute `rustlings hint errors6` or use the `hint` watch subcommand for a hint.
-
-// I AM NOT DONE
-
 use std::num::ParseIntError;
 
 // This is a custom error type that we will be using in `parse_pos_nonzero()`.
